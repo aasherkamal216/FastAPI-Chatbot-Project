@@ -14,7 +14,7 @@ This is a chatbot application built using the FastAPI web framework. It uses Goo
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/chatbot-project.git
+   git clone https://github.com/aasherkamal216/FastAPI-Chatbot-Project.git
 
 2. Navigate to the project directory:
 
