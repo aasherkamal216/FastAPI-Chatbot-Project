@@ -26,13 +26,18 @@ This is a chatbot application built using the FastAPI web framework. It uses Goo
    ```bash
    poetry install
    ```
+4. Create a `.env` file and add your Google API key like this:
 
-4. Start the FastAPI server:
+   ```bash
+   GOOGLE_API_KEY="YOUR_API_KEY"
+   ```
+
+5. Start the FastAPI server:
 
    ```bash
    poetry run uvicorn app.main:app --reload
    ```
-5. Open a web browser and navigate to http://localhost:8000 to access the chatbot interface.
+6. Open a web browser and navigate to http://localhost:8000 to access the chatbot interface.
 
 ### Usage
 * Type a message in the chat window and press Enter to send it to the chatbot.
