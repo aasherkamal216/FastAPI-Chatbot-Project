@@ -1,4 +1,4 @@
-# FastAPI Chatbot Project
+# FastAPI Chatbot
 
 This is a chatbot application built using the FastAPI web framework. It uses Google Gemini’s Multi-Modal feature, so you can upload files like PDFs, Python code, TXT, HTML, CSS, images (PNG, WEBP, JPEG), or Markdown. Then, you can ask questions about the content.
 
